@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1740622592.59748 "main.tex" "main.pdf" "main" 1740622594.53684 0
+["pdflatex"] 1740771168.60866 "main.tex" "main.pdf" "main" 1740771170.58214 0
   "../EspaciosVectoriales/Campos/Campos.tex" 1740612105.02502 1638 324f3c8fb615434fe9bc0e8aa7ab2357 ""
-  "../EspaciosVectoriales/EspVec/EspVec.tex" 1740622590.75302 2295 7fc042aaefe7e32884c631e3827e28ce ""
+  "../EspaciosVectoriales/EspVec/EspVec.tex" 1740771166.8968 3331 728e8e441b8f1c2dd688c60c91d3e7b1 ""
   "../Indice/Indice.tex" 1740605556.92717 1758 4d157957a4271bf3725e915208176b98 ""
   "../Intro/Intro.tex" 1740606420.99203 2095 113a1e5f92f72ba34611062d9baecacc ""
   "/etc/texmf/web2c/texmf.cnf" 1740301130.1445 475 c0e671620eb5563b2130f56340a5fde8 ""
@@ -22,6 +22,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1246382020 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
@@ -82,9 +83,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1740378737.38427 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1740380145 6822868 5fd203d3ba9bc65a60e42e481c63921d ""
-  "main.aux" 1740622594.19604 394 f5b066e92ca96fd5a5c87a531a0dea39 "pdflatex"
-  "main.out" 1740622594.19804 280 e6d459cdfa449d54875f2e53a74a3c40 "pdflatex"
-  "main.tex" 1740621877.75901 1026 3b1103fb48e9844438260bdb59d52203 ""
+  "main.aux" 1740771170.21382 394 f5b066e92ca96fd5a5c87a531a0dea39 "pdflatex"
+  "main.out" 1740771170.21582 280 e6d459cdfa449d54875f2e53a74a3c40 "pdflatex"
+  "main.tex" 1740766306.70039 1024 f878db11098c1926c52291aa2c1ccc41 ""
   (generated)
   "main.aux"
   "main.log"
