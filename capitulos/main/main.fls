@@ -179,6 +179,9 @@ INPUT ../EspaciosVectoriales/Campos/Campos.tex
 INPUT ../EspaciosVectoriales/EspVec/EspVec.tex
 INPUT ../EspaciosVectoriales/EspVec/EspVec.tex
 INPUT ../EspaciosVectoriales/EspVec/EspVec.tex
+INPUT ../EspaciosVectoriales/SubEsp/SubEsp.tex
+INPUT ../EspaciosVectoriales/SubEsp/SubEsp.tex
+INPUT ../EspaciosVectoriales/SubEsp/SubEsp.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf

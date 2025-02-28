@@ -1,7 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1740771168.60866 "main.tex" "main.pdf" "main" 1740771170.58214 0
-  "../EspaciosVectoriales/Campos/Campos.tex" 1740612105.02502 1638 324f3c8fb615434fe9bc0e8aa7ab2357 ""
-  "../EspaciosVectoriales/EspVec/EspVec.tex" 1740771166.8968 3331 728e8e441b8f1c2dd688c60c91d3e7b1 ""
+["pdflatex"] 1740776410.2318 "main.tex" "main.pdf" "main" 1740776412.37207 0
+  "../EspaciosVectoriales/Campos/Campos.tex" 1740773703.73091 1704 6769992e2184f405d93fe6a35db79bf9 ""
+  "../EspaciosVectoriales/EspVec/EspVec.tex" 1740774997.3112 3329 5c2e2ecb318d4b29ce6da89f8375bd4b ""
+  "../EspaciosVectoriales/SubEsp/SubEsp.tex" 1740776163.29612 1870 e48efc000622ccb0ca8863d0e8cf341b ""
   "../Indice/Indice.tex" 1740605556.92717 1758 4d157957a4271bf3725e915208176b98 ""
   "../Intro/Intro.tex" 1740606420.99203 2095 113a1e5f92f72ba34611062d9baecacc ""
   "/etc/texmf/web2c/texmf.cnf" 1740301130.1445 475 c0e671620eb5563b2130f56340a5fde8 ""
@@ -83,9 +84,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1740378737.38427 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1740380145 6822868 5fd203d3ba9bc65a60e42e481c63921d ""
-  "main.aux" 1740771170.21382 394 f5b066e92ca96fd5a5c87a531a0dea39 "pdflatex"
-  "main.out" 1740771170.21582 280 e6d459cdfa449d54875f2e53a74a3c40 "pdflatex"
-  "main.tex" 1740766306.70039 1024 f878db11098c1926c52291aa2c1ccc41 ""
+  "main.aux" 1740776412.02104 516 3cf7cd070700835a068c5dbeff4758e3 "pdflatex"
+  "main.out" 1740776412.02404 441 1281dc3b5cafe77209b3c6d32a670f58 "pdflatex"
+  "main.tex" 1740776407.70406 1108 f17c45101a6b857d424ce9cf23fca674 ""
   (generated)
   "main.aux"
   "main.log"
