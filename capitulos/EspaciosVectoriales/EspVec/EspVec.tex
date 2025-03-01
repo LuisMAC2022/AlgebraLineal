@@ -39,17 +39,21 @@ Sea: \\
 $V$ un conjunto no vac\'{i}o,\\ $\mb{F}$ un campo y \\  $+: V\times V \to V;$ \\$ \cdot : \mb{F}\times V \to V$ \\
 Tal que se cumplen los siguientes axiomas:
 
+	$\forall u,v,w \in V; \alpha, \beta \in \mb{F}$
 \begin{description}
-	\item[Cerradura de la suma]
-\item[Asociatividad de la suma]
-\item[Conmutatividad de la suma]
-\item[Existencia del vector cero]
-\item[Existencia del inverso aditivo]
-\item[Cerradura del producto escalar sobre el vector]
-%\item[Distributividad del producto escalar respecto a la suma del vector]
-%\item[Distributividad del producto escalar respecto a la suma del campo ]
-\item[Existencia del neutro multiplicativo del campo]
-\item[Asociatividad del producto de escalares]
+	\item[Cerradura de la suma en el espacio vectorial.]\ \\$u+v \in V $
+	\item[Asociatividad de la suma en el espacio vectorial.]\ \\\isp{}{u+w}\isp{= u +}{v+w}
+\item[Conmutatividad de la suma en E.V.]\ \\$u+v = v+u$
+\item[Existencia del vector cero.]$\exists! 0 \in V$ tal que:\\
+	$0+v=v+0=v$
+\item[Existencia del inverso aditivo del vector.]$\exists! -v\in V$ tal que:\\
+	$-v+v=v+(-v)=0$
+\item[Cerradura del producto escalar sobre el vector.]\ \\$\alpha v \in V$
+\item[Distributividad del P.E. respecto a la suma del vector.]\ \\\isp{\alpha}{u+v}$=\alpha u + \alpha v $
+\item[Distributividad del P.E. respecto a la suma del campo.]\ \\\isp{}{\alpha + \beta}$v = \alpha v + \beta v$
+\item[Existencia del neutro multiplicativo del campo.]$\exists!1\in\mb{F}$ tal que: \\
+	$1\cdot v = v$
+\item[Asociatividad del producto de escalares por el vector.]\ \\ \isp{\alpha}{\beta v}\isp{=}{\alpha\beta}$v$
 \end{description}
 
 Entonces $V$ se llama espacio vectorial sobre el campo $\mb{F}$. A los elementos de $V$ se le llama vectores.
@@ -57,24 +61,23 @@ Entonces $V$ se llama espacio vectorial sobre el campo $\mb{F}$. A los elementos
 \end{defin}
 
 \be{ejem}{$\mb{R}^n$ sobre $\mb{R}$ es un espacio vectorial con las operaciones:
-	\be{align}{+: \mb{R}^n \times \mb{R}^n \to \mb{R}^n\\\cdot: \mb{R} \times \mb{R}^n \to \mb{R}^n} 
+	\be{align*}{+: \mb{R}^n \times \mb{R}^n \to \mb{R}^n\\\cdot: \mb{R} \times \mb{R}^n \to \mb{R}^n} 
 	Sean \isp{x}{x_1,x_2,...,x_n}, \isp{y}{y_1,...,y_n}$\in \mb{R}^n$\\
 	\isp{x+y:}{x_1+y_1,x_2+y_2,...,x_n+y_n}$\in\mb{R}^n$\\
 	\isp{\alpha x :}{\alpha x, \alpha x_1,...,\alpha x_n  }$\in\mb{R}^n$\\
 	\be{enumerate}{
-	\item Cerradura de suma
-	\item Conmutatividad de suma
-	\item Asociatividad de suma
-	\item 
-	\item 
-	\item 
-	\item 
-	\item 	
-	\item 
-	\item 
-	}
-
-}
+	\item Cerradura de suma.\\
+		Comprueba: \isp{x+y=}{x_1+y_1,...,x_n+y_n}$\in \mb{R}^n$
+		\be{align*}{t_1=x_1 + y_1, t_2 = x_2 + y_2, ..., t_n = x_n + y_n \\ \Rightarrow \isp{x+y=}{ t_1,t_2,...,t_n}\mb{R}^n\\ t_k \in \mb{R} \text{ por cerradura de la suma en el campo}\\ \text{Siendo } k=\sumin} 
+	\item Conmutatividad de suma.
+	\item Asociatividad de suma.
+	\item Existencia del vector 0 en $\mb{R}^n$.
+	\item Existencia del inverso aditivo.
+	\item Cerradura del producto por escalar.
+	\item Distributividad del P.E respecto a suma del vector.
+	\item Distributividad del P.E respecto a suma del campo.
+	\item Existencia del neutro multiplicativo del campo.
+\item Asociatividad del producto de escalares.}}
 
 %%\input{carpeta/capitulo}
 %\end{document}

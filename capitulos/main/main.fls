@@ -182,10 +182,16 @@ INPUT ../EspaciosVectoriales/EspVec/EspVec.tex
 INPUT ../EspaciosVectoriales/SubEsp/SubEsp.tex
 INPUT ../EspaciosVectoriales/SubEsp/SubEsp.tex
 INPUT ../EspaciosVectoriales/SubEsp/SubEsp.tex
+INPUT ../EspaciosVectoriales/14f/14f.tex
+INPUT ../EspaciosVectoriales/14f/14f.tex
+INPUT ../EspaciosVectoriales/14f/14f.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
